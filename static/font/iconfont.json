@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "975385",
+      "name": "订单",
+      "font_class": "single",
+      "unicode": "e6bd",
+      "unicode_decimal": 59069
+    },
+    {
+      "icon_id": "1137796",
+      "name": "待收货",
+      "font_class": "daishouhuo",
+      "unicode": "e690",
+      "unicode_decimal": 59024
+    },
+    {
+      "icon_id": "1603689",
+      "name": "分享",
+      "font_class": "fenxiang",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "1985085",
+      "name": "点赞",
+      "font_class": "dianzan",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "3849974",
+      "name": "售后",
+      "font_class": "shouhou",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "11520979",
+      "name": "代付款",
+      "font_class": "daifukuan",
+      "unicode": "e76f",
+      "unicode_decimal": 59247
+    },
+    {
+      "icon_id": "11521279",
+      "name": "待评价",
+      "font_class": "daipingjia",
+      "unicode": "e772",
+      "unicode_decimal": 59250
+    }
+  ]
+}
